@@ -1,7 +1,7 @@
 # THE RACE AGAINST TIME
 21020762 - Nguyễn Cao Đức - UET_Project
 
-# INTRODUTINE
+# INTRODUTINO
 - Họ và tên: Nguyễn Cao Đức
 - Lớp: K66CD
 - Bài tập lớn: The Race Against Time (INT2215_1)
